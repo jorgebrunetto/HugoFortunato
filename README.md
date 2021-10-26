@@ -78,6 +78,5 @@
 
 ---
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-![image](https://user-images.githubusercontent.com/67443788/138975077-bb1e4a11-8a44-4a9e-84b7-f4983a884fc3.png)
 
   
