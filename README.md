@@ -55,13 +55,6 @@
   <div style="padding:10px 10px 10px 20px">
     <p>🧐 Querendo aprender: </p>
 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-djrkj&psig=AOvVaw1K4GCDXsL5E_ipgxpgc5pF&ust=1635376794690000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCqi7qb6fMCFQAAAAAdAAAAABAD" alt="docker" width="50" />
-
-
-
-
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" />
 
   </div>
@@ -74,14 +67,13 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/douglas_constancio/" alt="Instagram">
+  <a href="https://www.instagram.com/hugo.fortunat0" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
 
-  <a href="https://www.linkedin.com/in/douglasconstancio" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/hugofor/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 
-  <a href="https://www.facebook.com/douglasconstancio/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
+  
 </p>
 
 ---
