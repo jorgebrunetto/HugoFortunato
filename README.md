@@ -1,4 +1,4 @@
-<img src="https://media.taringa.net/knn/identity/aHR0cHM6Ly9rNjAua24zLm5ldC90YXJpbmdhLzYvMy8xL0QvMS9GL3ZhZ29uZXR0YXMvRjA2LmdpZg" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador douglas">
+<img src="https://camo.githubusercontent.com/40fd09308967592ee6d3f66a5ae98ba426f9fff24e74959eb1cd626c27c0db24/68747470733a2f2f657175696c69627269756d2e636f2e6b652f73656e7369746976652f77702d636f6e74656e742f75706c6f6164732f323032302f30382f5745422d4445562e676966" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador douglas">
 
 ## Olá 🌎, meu nome é Hugo...
 
