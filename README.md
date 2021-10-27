@@ -3,7 +3,7 @@
 ## Olá 🌎, meu nome é Hugo...
 
 <p align="left">
-  sou desenvolvedor <strong>Front-end</strong> no <strong>Sistema Prodígio de Ensino</strong>.
+  sou desenvolvedor <strong>Front-end</strong> na <strong>Sistema Prodígio de Ensino</strong>.
 </p>
 
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
