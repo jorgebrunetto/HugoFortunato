@@ -67,7 +67,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/hugo.fortunat0" alt="Instagram">
+  <a href="https://www.instagram.com/hugofortunat0" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
 
   <a href="https://www.linkedin.com/in/hugofor/" alt="Linkedin">
